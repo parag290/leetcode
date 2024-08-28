@@ -5,6 +5,7 @@
 */
 
 /**
+ * Using running sum method 
  * 
  * maSum will keep the track of maximum sum
  * 
